@@ -14,8 +14,8 @@ game_hash = {   #main hash
         :blocks =>
         :slam_dunks =>
       },
-      
-      
+
+
   ]
   }
   :away => { #key of main hash
