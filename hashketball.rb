@@ -30,8 +30,8 @@ game_hash = {   #main hash
       "Mason Plumlee" => { #array location 3 - holds players stats - HOME TEAM
 
       },
-      "Jason Terry" => { #array location 4 - holds players state - HOME TEAM 
-        
+      "Jason Terry" => { #array location 4 - holds players state - HOME TEAM
+
       }
 
     ]
