@@ -89,6 +89,17 @@ game_hash = {   #main hash
         :blocks => 15,
         :slam_dunks => 10
       },
+      {    #array location 2 - holds players stats - AWAY TEAM
+        :player_name => "DeSagna Diop",
+        :number => 4,
+        :shoe => 18,
+        :points => 10,
+        :rebounds => 1,
+        :assists => 2,
+        :steals => 2,
+        :blocks => 7,
+        :slam_dunks => 2
+      },
 
     ]
   }
