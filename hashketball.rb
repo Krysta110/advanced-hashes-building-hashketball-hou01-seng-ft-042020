@@ -8,8 +8,8 @@ game_hash = {   #main hash
     :players => [  #key of home - holds an array of hashes
       {    #array location 0 - holds players stats - HOME TEAM
         :player_name => "Alan Anderson",
-        :number => "0",
-        :shoe => "16",
+        :number => 0,
+        :shoe => 16,
         :points => 22,
         :rebounds => 12,
         :assists => 12,
