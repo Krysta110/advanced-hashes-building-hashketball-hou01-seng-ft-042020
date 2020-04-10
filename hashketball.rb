@@ -32,12 +32,12 @@ game_hash = {   #main hash
         :player_name => "Brook Lopez"
         :number => "11",
         :shoe => "17",
-        :points => 12,
-        :rebounds => 12,
-        :assists => 12,
-        :steals => 12,
-        :blocks => 12,
-        :slam_dunks => 7
+        :points => 17,
+        :rebounds => 19,
+        :assists => 10,
+        :steals => 3,
+        :blocks => 1,
+        :slam_dunks => 15
       },
       { #array location 3 - holds players stats - HOME TEAM
         :player_name => "Mason Plumlee"
