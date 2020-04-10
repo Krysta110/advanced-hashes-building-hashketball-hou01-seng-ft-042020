@@ -18,7 +18,7 @@ game_hash = {   #main hash
         :slam_dunks => 1
       },
       { #array location 1 - holds players stats - HOME TEAM
-        :player_name => "Reggie Evans"
+        :player_name => "Reggie Evans",
         :number => "30",
         :shoe => "14",
         :points => 12,
@@ -29,7 +29,7 @@ game_hash = {   #main hash
         :slam_dunks => 7
       },
       { #array location 2 - holds players stats - HOME TEAM
-        :player_name => "Brook Lopez"
+        :player_name => "Brook Lopez",
         :number => "11",
         :shoe => "17",
         :points => 17,
@@ -51,7 +51,7 @@ game_hash = {   #main hash
         :slam_dunks => 7
       },
       { #array location 4 - holds players state - HOME TEAM
-        :player_name => "Jason Terry"
+        :player_name => "Jason Terry",
         :number => "30",
         :shoe => "14",
         :points => 12,
