@@ -42,4 +42,5 @@ game_hash = {   #main hash
 
   }
 }
+return game_hash
 end
