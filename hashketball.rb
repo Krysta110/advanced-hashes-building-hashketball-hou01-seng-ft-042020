@@ -5,8 +5,9 @@ game_hash = {   #main hash
   :home => {    #key of main hash
     :team_name => "Brooklyn Nets",  #key of home - holds a String
     :colors => ["Black", "White"],  #key of home - holds an array
-    :players => [  #key of home - holds an array if hashes
-      "Alan Anderson" => {    #array location 0 - holds players stats - HOME TEAM
+    :players => [  #key of home - holds an array of hashes
+      {    #array location 0 - holds players stats - HOME TEAM
+        :player_name => "Alan Anderson",
         :number => "0",
         :shoe => "16",
         :points => 22,
@@ -16,7 +17,8 @@ game_hash = {   #main hash
         :blocks => 1,
         :slam_dunks => 1
       },
-      "Reggie Evans" => { #array location 1 - holds players stats - HOME TEAM
+      { #array location 1 - holds players stats - HOME TEAM
+        :player_name => "Reggie Evans"
         :number => "30",
         :shoe => "14",
         :points => 12,
@@ -26,15 +28,38 @@ game_hash = {   #main hash
         :blocks => 12,
         :slam_dunks => 7
       },
-      "Brook Lopez" => { #array location 2 - holds players stats - HOME TEAM
-
+      { #array location 2 - holds players stats - HOME TEAM
+        :player_name => "Brook Lopez"
+        :number => "11",
+        :shoe => "17",
+        :points => 12,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 12,
+        :blocks => 12,
+        :slam_dunks => 7
       },
-      "Mason Plumlee" => { #array location 3 - holds players stats - HOME TEAM
-
+      { #array location 3 - holds players stats - HOME TEAM
+        :player_name => "Mason Plumlee"
+        :number => "30",
+        :shoe => "14",
+        :points => 12,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 12,
+        :blocks => 12,
+        :slam_dunks => 7
       },
-      "Jason Terry" => { #array location 4 - holds players state - HOME TEAM
-
-      }
+      { #array location 4 - holds players state - HOME TEAM
+        :player_name => "Jason Terry"
+        :number => "30",
+        :shoe => "14",
+        :points => 12,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 12,
+        :blocks => 12,
+        :slam_dunks => 7      }
 
     ]
   },
