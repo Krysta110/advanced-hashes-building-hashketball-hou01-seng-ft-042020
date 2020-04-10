@@ -111,6 +111,17 @@ game_hash = {   #main hash
         :blocks => 1,
         :slam_dunks => 0
       },
+      {    #array location 4 - holds players stats - AWAY TEAM
+        :player_name => "Kemba Walker",
+        :number => 33,
+        :shoe => 15,
+        :points => 6,
+        :rebounds => 12,
+        :assists => 2,
+        :steals => 2,
+        :blocks => 7,
+        :slam_dunks => 2
+      },
 
     ]
   }
