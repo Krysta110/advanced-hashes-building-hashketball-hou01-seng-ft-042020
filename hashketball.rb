@@ -1,4 +1,6 @@
 # Write your code here!
+
+def game_hash
 game_hash = {   #main hash
   :home => {    #key of main hash
     :team_name => "Brooklyn Nets",  #key of home - holds a String
