@@ -64,6 +64,20 @@ game_hash = {   #main hash
     ]
   },
   :away => { #key of main hash
+    :team_name => "Charlotte Hornets",  #key of away - holds a String
+    :colors => ["Turquoise", "Purple"],  #key of away - holds an array
+    :players => [  #key of away - holds an array of hashes
+      {    #array location 0 - holds players stats - AWAY TEAM
+        :player_name => "Jeff Adrien",
+        :number => 4,
+        :shoe => 18,
+        :points => 10,
+        :rebounds => 1,
+        :assists => 2,
+        :steals => 2,
+        :blocks => 7,
+        :slam_dunks => 2
+      },
 
   }
 }
