@@ -117,10 +117,10 @@ game_hash = {   #main hash
         :shoe => 15,
         :points => 6,
         :rebounds => 12,
-        :assists => 2,
-        :steals => 2,
-        :blocks => 7,
-        :slam_dunks => 2
+        :assists => 12,
+        :steals => 7,
+        :blocks => 5,
+        :slam_dunks => 12
       },
 
     ]
