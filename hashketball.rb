@@ -40,15 +40,15 @@ game_hash = {   #main hash
         :slam_dunks => 15
       },
       { #array location 3 - holds players stats - HOME TEAM
-        :player_name => "Mason Plumlee"
-        :number => "30",
-        :shoe => "14",
-        :points => 12,
-        :rebounds => 12,
-        :assists => 12,
-        :steals => 12,
-        :blocks => 12,
-        :slam_dunks => 7
+        :player_name => "Mason Plumlee",
+        :number => "1",
+        :shoe => "19",
+        :points => 26,
+        :rebounds => 11,
+        :assists => 6,
+        :steals => 3,
+        :blocks => 8,
+        :slam_dunks => 5
       },
       { #array location 4 - holds players state - HOME TEAM
         :player_name => "Jason Terry",
