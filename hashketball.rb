@@ -27,10 +27,10 @@ game_hash = {   #main hash
       "Brook Lopez" => { #array location 2 - holds players stats - HOME TEAM
 
       },
-      "Mason Plumlee" => { #arry location 3 - holds players stats - HOME TEAM
+      "Mason Plumlee" => { #array location 3 - holds players stats - HOME TEAM
 
       },
-      "Jason Terry" => {
+      "Jason Terry" => { #array location 4 - holds players state - HOME TEAM 
         
       }
 
